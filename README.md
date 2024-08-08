@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-08-07 at 21 21 08_601b7597](https://github.com/user-attachments/assets/67a428c6-ae83-4fc7-91fc-7f3a9fc5e3e0)# Segmented Buttons UI in Jetpack Compose
+# Segmented Buttons UI in Jetpack Compose
 
 This project showcases a segmented button UI using Jetpack Compose's `SingleChoiceSegmentedButtonRow`. It allows for easy navigation between different options with a visually appealing design.
 
